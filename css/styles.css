@@ -127,6 +127,18 @@ img#cloud3 {
   top:-100px;
   right:-5em;
 }
+
+/* bottom button */
+#bbuttom {
+  Display: block;
+  text-align: center;
+}
+
+#bbuttom img{
+margin:10px;
+size:.7em;
+}
+
 /* FOOTER */
 .row {
   text-align: center;
@@ -248,16 +260,7 @@ div#nav-2 {
 }
 
 
-ul#nav-2as.nav.navbar-nav {
-  cursor: pointer;
-  position: absolute;
-  margin-left: 30px;
-    margin-right: 30px;
-    padding-left: 20px;
-  width:100%;
-  text-align: center;
-  background-color; #000;
-}
+
 
 
 
@@ -415,17 +418,6 @@ img#cloud3 {
   /* End Header */
 
 
-/* button botttom */
-  ul#nav-2as.nav.navbar-nav {
-  cursor: pointer;
-  position: absolute;
-  margin-left: 0px;
-    margin-right: 0px;
-    padding-left: 0;
-  width:15%;
-  text-align: center;
-  background-color; #000;
-}
 
 
 
@@ -448,17 +440,6 @@ img#cloud3 {
 @media (max-width: 479px) {
 
 
-/* button botttom */
-  ul#nav-2as.nav.navbar-nav {
-  cursor: pointer;
-  position: absolute;
-  margin-left: 0px;
-    margin-right: 0px;
-    padding-left: 0;
-  width:18%;
-  text-align: center;
-  background-color; #000;
-}
 
 
   #logo-img {
