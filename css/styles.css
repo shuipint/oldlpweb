@@ -1,3 +1,11 @@
+#zoomout {display: block;
+text-align: center;
+width: -2em;}
+
+.webd {text-align: center;
+padding-top: 1em;
+padding-bottom: 3em;}
+
 body {
   font-size: 16px;
   color:black;
@@ -316,7 +324,7 @@ img#girl {
 
 img#girl {
   width:52%;
-  margin-top:0 ;
+  margin-top:0Â ;
   margin-left:auto;
   margin-right:auto;
   padding-left:0;
@@ -377,7 +385,7 @@ img#cloud3 {
 
   img#girl {
   width:90%;
-  margin-top:25px ;
+  margin-top:25pxÂ ;
   margin-left:auto;
   margin-right:auto;
   padding-top: 10px;
@@ -467,7 +475,7 @@ img#cloud3 {
   margin-left:auto;
   margin-right:auto;
   width:100%;
-  margin-top:0 ;
+  margin-top:0Â ;
 }
 
   img#cloud1 {
@@ -513,4 +521,3 @@ img#cloud3 {
     margin: 0 auto 15px;
   }
 }
-
